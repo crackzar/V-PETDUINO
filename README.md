@@ -4,11 +4,17 @@ VPET  con arduino y display nokia 5110
  material necesario 
  
  *arduino uno "similares"
+ 
  *3 push button
+ 
  *1 speaker pasivo
+ 
  *display nokia 5110
+ 
  *5 resistencias de 10K
+ 
  *1 resistencia de 1 K
+ 
 
 Este proyecto esta incompleto por que no tengo tiempo de terminarlo pero si a alguien le sirve 
 puede implementar sus mejoras para hacer un v pet como los de bandai pero en arduino yo actualizare
