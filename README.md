@@ -6,7 +6,6 @@ agrego un video de youtube
 https://youtu.be/ckySUJXexAI
 
 
-saludos a toda la comunidad
  material necesario 
  
  *arduino uno "similares"
