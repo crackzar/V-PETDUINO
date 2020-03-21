@@ -1,5 +1,5 @@
-# VPET-arduino
-VPET  con arduino y display nokia 5110
+# V-PETDUINO
+VPET con arduino y display nokia 5110
  
  material necesario 
  
